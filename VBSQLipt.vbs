@@ -179,6 +179,7 @@ private Sub printResult(rs)
     Case vbCancel
       IEMsg("結果出力がキャンセルされました")
   End Select
+  Set shell = Nothing
 End Sub
 
 ' Recordset を出力する
