@@ -1,10 +1,10 @@
 # VBSQLipt
 
-DB Ú‘±‚µ‚Ä SQL ‚ðŽÀs‚·‚é VBScript ‚Å‚·B
+DB æŽ¥ç¶šã—ã¦ SQL ã‚’å®Ÿè¡Œã™ã‚‹ VBScript ã§ã™ã€‚
 
-InputBox ‚Åƒ†[ƒU‚©‚çŽÀs‚µ‚½‚¢ SQL ‚ðŽó‚¯Žæ‚èAIE ‚ðo—ÍƒRƒ“ƒ\[ƒ‹‚Æ‚µ‚ÄŽg—p‚µ‚ÄŒ‹‰Ê‚ð•\Ž¦‚µ‚Ü‚·B
+InputBox ã§ãƒ¦ãƒ¼ã‚¶ã‹ã‚‰å®Ÿè¡Œã—ãŸã„ SQL ã‚’å—ã‘å–ã‚Šã€IE ã‚’å‡ºåŠ›ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã¨ã—ã¦ä½¿ç”¨ã—ã¦çµæžœã‚’è¡¨ç¤ºã—ã¾ã™ã€‚
 
-`tnsnames.ora` ‚É‹LÚ‚·‚éÚ‘±•¶Žš—ñ‚ðŽg—p‚µ‚ÄAOracle DB ‚ÉÚ‘±‚·‚é‘O’ñ‚ÅƒXƒNƒŠƒvƒg‚ðì¬‚µ‚Ä‚¢‚Ü‚·‚ªA`ConnectionString` ‚ð•ÏX‚·‚ê‚Î ODBC Ú‘±‚ª‰Â”\‚È‚Ì‚ÅASQL Server ‚È‚Ç‚»‚Ì‘¼‚Ì DBMS ‚É‚àÚ‘±‚Å‚«‚Ü‚·B
+`tnsnames.ora` ã«è¨˜è¼‰ã™ã‚‹æŽ¥ç¶šæ–‡å­—åˆ—ã‚’ä½¿ç”¨ã—ã¦ã€Oracle DB ã«æŽ¥ç¶šã™ã‚‹å‰æã§ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’ä½œæˆã—ã¦ã„ã¾ã™ãŒã€`ConnectionString` ã‚’å¤‰æ›´ã™ã‚Œã° ODBC æŽ¥ç¶šãŒå¯èƒ½ãªã®ã§ã€SQL Server ãªã©ãã®ä»–ã® DBMS ã«ã‚‚æŽ¥ç¶šã§ãã¾ã™ã€‚
 
 
 ## Author
@@ -19,4 +19,4 @@ InputBox ‚Åƒ†[ƒU‚©‚çŽÀs‚µ‚½‚¢ SQL ‚ðŽó‚¯Žæ‚èAIE ‚ðo—ÍƒRƒ“ƒ\[ƒ‹‚Æ‚µ‚ÄŽg—p‚µ‚
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
 - [Bit-Archer](http://bit-archer.hatenablog.com/)
-- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
+- [GitHub - Neos21](https://github.com/Neos21/)
